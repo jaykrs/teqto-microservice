@@ -16,3 +16,6 @@ zuul:
     product-service:
       path: /product-service/**
       serviceId: product-service
+    course-service:
+      path: /course-service/**
+      serviceId: course-service  

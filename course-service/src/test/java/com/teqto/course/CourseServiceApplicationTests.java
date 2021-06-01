@@ -1,13 +1,13 @@
-package com.teqto.consumer;
+package com.teqto.course;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class ConsumerServiceApplicationTests {
+class CourseServiceApplicationTests {
 
 	@Test
-	public void contextLoads() {
+	void contextLoads() {
 	}
 
 }
