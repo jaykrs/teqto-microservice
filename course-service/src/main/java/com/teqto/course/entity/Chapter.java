@@ -3,6 +3,8 @@ package com.teqto.course.entity;
 import java.io.Serializable;
 import javax.persistence.*;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 
 /**
  * The persistent class for the chapter database table.
@@ -16,27 +18,39 @@ public class Chapter implements Serializable {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Column(name = "ID")
 	private int id;
 
 	@Lob
+	@Column(name = "CHAPTER_BRIEF")
 	private String chapterBrief;
 
 	@Lob
+	@Column(name = "CHAPTER_CONTENT")
 	private String chapterContent;
 
+	@Column(name = "CHAPTER_DURATION")
 	private int chapterDuration;
 
+	@Column(name = "CHAPTER_ORDER")
 	private int chapterOrder;
 
+	@Column(name = "CHAPTER_RESOURCE")
 	private String chapterResource;
 
+	@Column(name = "CHAPTER_TITLE")
 	private String chapterTitle;
 
+	@Column(name = "CHAPTER_TYPE")
 	private String chapterType;
 
+	@Column(name = "METADATA")
 	private String metadata;
 
-	private int unitId;
+	@JsonIgnore
+	@ManyToOne(targetEntity = Unit.class)
+	@JoinColumn(name = "UNIT_ID", nullable = false)
+	private Unit unit;
 
 	public Chapter() {
 	}
@@ -113,12 +127,18 @@ public class Chapter implements Serializable {
 		this.metadata = metadata;
 	}
 
-	public int getUnitId() {
-		return this.unitId;
+	/**
+	 * @return the unit
+	 */
+	public Unit getUnit() {
+		return unit;
 	}
 
-	public void setUnitId(int unitId) {
-		this.unitId = unitId;
+	/**
+	 * @param unit the unit to set
+	 */
+	public void setUnit(Unit unit) {
+		this.unit = unit;
 	}
 
 }

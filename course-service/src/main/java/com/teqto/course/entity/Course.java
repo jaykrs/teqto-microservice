@@ -2,7 +2,10 @@ package com.teqto.course.entity;
 
 import java.io.Serializable;
 import javax.persistence.*;
+
 import java.util.Date;
+import java.util.HashSet;
+import java.util.Set;
 
 
 /**
@@ -20,6 +23,10 @@ public class Course implements Serializable {
 
 	@Column(name="ARTICLE_ID")
 	private int articleId;
+	
+	@OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, mappedBy = "course")
+	@OrderBy("orderCount ASC")
+	private Set<Unit> units = new HashSet<Unit>();
 
 	@Column(name="COURSE_BASE_LANGUAGE")
 	private int courseBaseLanguage;
@@ -379,6 +386,20 @@ public class Course implements Serializable {
 	 */
 	public void setCourseModeratorName(String courseModeratorName) {
 		this.courseModeratorName = courseModeratorName;
+	}
+
+	/**
+	 * @return the units
+	 */
+	public Set<Unit> getUnits() {
+		return units;
+	}
+
+	/**
+	 * @param units the units to set
+	 */
+	public void setUnits(Set<Unit> units) {
+		this.units = units;
 	}
 
 }
