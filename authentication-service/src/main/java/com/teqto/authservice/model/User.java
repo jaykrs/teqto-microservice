@@ -23,12 +23,13 @@ public class User implements Serializable{
 
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-	private long userid;
+	private int userid;
 	
 	private String username;
 	private String password;
 	private String authtoken;
 	private String name;
+	private String usertype;
 	public String getUsername() {
 		return username;
 	}
@@ -41,10 +42,10 @@ public class User implements Serializable{
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	public long getUserid() {
+	public int getUserid() {
 		return userid;
 	}
-	public void setUserid(long userid) {
+	public void setUserid(int userid) {
 		this.userid = userid;
 	}
 	public String getAuthtoken() {
@@ -58,5 +59,11 @@ public class User implements Serializable{
 	}
 	public void setName(String name) {
 		this.name = name;
+	}
+	public String getUsertype() {
+		return usertype;
+	}
+	public void setUsertype(String usertype) {
+		this.usertype = usertype;
 	}
 }

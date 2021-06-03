@@ -100,7 +100,10 @@ public class Course implements Serializable {
 	private Date publishDate;
 
 	@Column(name="PUBLISH_STATUS")
-	private int publishStatus;
+	private boolean publishStatus;
+	
+	@Column(name="APPROVAL_STATUS")
+	private boolean approvalStatus;
 
 	@Column(name="SHARE_URL")
 	private String shareUrl;
@@ -300,11 +303,11 @@ public class Course implements Serializable {
 		this.publishDate = publishDate;
 	}
 
-	public int getPublishStatus() {
+	public boolean getPublishStatus() {
 		return this.publishStatus;
 	}
 
-	public void setPublishStatus(int publishStatus) {
+	public void setPublishStatus(boolean publishStatus) {
 		this.publishStatus = publishStatus;
 	}
 
@@ -400,6 +403,20 @@ public class Course implements Serializable {
 	 */
 	public void setUnits(Set<Unit> units) {
 		this.units = units;
+	}
+
+	/**
+	 * @return the approvalStatus
+	 */
+	public boolean getApprovalStatus() {
+		return approvalStatus;
+	}
+
+	/**
+	 * @param approvalStatus the approvalStatus to set
+	 */
+	public void setApprovalStatus(boolean approvalStatus) {
+		this.approvalStatus = approvalStatus;
 	}
 
 }

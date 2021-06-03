@@ -10,6 +10,8 @@ import java.io.Serializable;
 public class FormCourse implements Serializable {
 	private static final long serialVersionUID = 1L;
 
+	private int id;
+	
 	private String name;
 	
 	private String title;
@@ -232,6 +234,20 @@ public class FormCourse implements Serializable {
 	 */
 	public void setAudiance(int audiance) {
 		this.audiance = audiance;
+	}
+
+	/**
+	 * @return the id
+	 */
+	public int getId() {
+		return id;
+	}
+
+	/**
+	 * @param id the id to set
+	 */
+	public void setId(int id) {
+		this.id = id;
 	}
 
 }

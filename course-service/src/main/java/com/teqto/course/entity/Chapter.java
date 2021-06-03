@@ -46,6 +46,9 @@ public class Chapter implements Serializable {
 
 	@Column(name = "METADATA")
 	private String metadata;
+	
+	@Column(name = "COURSE_ID")
+	private int courseId;
 
 	@JsonIgnore
 	@ManyToOne(targetEntity = Unit.class)
@@ -139,6 +142,20 @@ public class Chapter implements Serializable {
 	 */
 	public void setUnit(Unit unit) {
 		this.unit = unit;
+	}
+
+	/**
+	 * @return the courseId
+	 */
+	public int getCourseId() {
+		return courseId;
+	}
+
+	/**
+	 * @param courseId the courseId to set
+	 */
+	public void setCourseId(int courseId) {
+		this.courseId = courseId;
 	}
 
 }
