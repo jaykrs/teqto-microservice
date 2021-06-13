@@ -1,0 +1,372 @@
+----------------------------------------------------------------
+Sun Jun 13 20:07:30 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:07:32 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 888c4022-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:07:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6965c036-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:07:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4aa3404a-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:09:40 IST 2021:
+Shutting down instance 888c4022-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:09:40 IST 2021:
+Shutting down instance 6965c036-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:09:40 IST 2021:
+Shutting down instance 4aa3404a-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:09:41 IST 2021:
+Shutting down instance a816c00e-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:12:00 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8ca44062-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:12:00 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ebdc076-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:12:01 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 513b408a-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:12:01 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 341cc09e-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:13:09 IST 2021:
+Shutting down instance 6ebdc076-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:13:10 IST 2021:
+Shutting down instance 513b408a-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:13:10 IST 2021:
+Shutting down instance 341cc09e-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:13:10 IST 2021:
+Shutting down instance 8ca44062-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:13:41 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:13:41 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fb0bc0c6-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:13:41 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance df1940da-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:13:42 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c38ac0ee-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:17:59 IST 2021:
+Shutting down instance fb0bc0c6-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:17:59 IST 2021:
+Shutting down instance df1940da-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:17:59 IST 2021:
+Shutting down instance c38ac0ee-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:17:59 IST 2021:
+Shutting down instance 176240b2-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:23:01 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0963c106-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:23:01 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eeb1411a-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:23:01 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d462c12e-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:23:02 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ba784142-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:24:25 IST 2021:
+Shutting down instance eeb1411a-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:24:25 IST 2021:
+Shutting down instance d462c12e-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:24:25 IST 2021:
+Shutting down instance ba784142-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:24:25 IST 2021:
+Shutting down instance 0963c106-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 20:25:00 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0249415a-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:25:01 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e93ac16e-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:25:02 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d0904182-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 20:25:02 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b849c196-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 21:38:12 IST 2021:
+Shutting down instance e93ac16e-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 21:38:13 IST 2021:
+Shutting down instance d0904182-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 21:38:13 IST 2021:
+Shutting down instance b849c196-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 21:38:13 IST 2021:
+Shutting down instance 0249415a-017a-05ce-63e2-0000128c4338 on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+----------------------------------------------------------------
+Sun Jun 13 22:16:33 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 52ea01b0-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\version\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 22:16:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3b8981c4-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\default\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 22:16:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 248d01d8-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\security\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 13 22:16:35 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0df481ec-017a-05ce-63e2-0000128c4338 
+on database directory C:\workspace-java\teqto-microservice\article-service\jackrabbit\workspaces\teqtosys\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jayant/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\workspace-java\teqto-microservice\article-service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
